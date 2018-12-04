@@ -1,0 +1,14 @@
+E:\Temp\TelerikWinFormsApp1\TelerikWinFormsApp1\bin\Debug\TelerikWinFormsApp1.exe
+E:\Temp\TelerikWinFormsApp1\TelerikWinFormsApp1\bin\Debug\TelerikWinFormsApp1.pdb
+E:\Temp\TelerikWinFormsApp1\TelerikWinFormsApp1\bin\Debug\Telerik.WinControls.dll
+E:\Temp\TelerikWinFormsApp1\TelerikWinFormsApp1\bin\Debug\Telerik.WinControls.UI.dll
+E:\Temp\TelerikWinFormsApp1\TelerikWinFormsApp1\bin\Debug\TelerikCommon.dll
+E:\Temp\TelerikWinFormsApp1\TelerikWinFormsApp1\bin\Debug\Telerik.WinControls.xml
+E:\Temp\TelerikWinFormsApp1\TelerikWinFormsApp1\bin\Debug\Telerik.WinControls.UI.xml
+E:\Temp\TelerikWinFormsApp1\TelerikWinFormsApp1\obj\x86\Debug\TelerikWinFormsApp1.RadForm1.resources
+E:\Temp\TelerikWinFormsApp1\TelerikWinFormsApp1\obj\x86\Debug\TelerikWinFormsApp1.Properties.Resources.resources
+E:\Temp\TelerikWinFormsApp1\TelerikWinFormsApp1\obj\x86\Debug\TelerikWinFormsApp1.csproj.GenerateResource.Cache
+E:\Temp\TelerikWinFormsApp1\TelerikWinFormsApp1\obj\x86\Debug\TelerikWinFormsApp1.exe
+E:\Temp\TelerikWinFormsApp1\TelerikWinFormsApp1\obj\x86\Debug\TelerikWinFormsApp1.pdb
+E:\Temp\TelerikWinFormsApp1\TelerikWinFormsApp1\obj\x86\Debug\TelerikWinFormsApp1.exe.licenses
+E:\Temp\TelerikWinFormsApp1\TelerikWinFormsApp1\obj\x86\Debug\TelerikWinFormsApp1.LoginForm.resources
